@@ -142,7 +142,7 @@ The top 10 issues for 2013 are:
 **Paid**
 - [Coursera Cybersecurity Course](https://www.coursera.org/specialization/cybersecurity/7?utm_medium=courseDescripTop) - If you find that cybersecurity is interesting to you, Coursera offers a certificate program that covers several broad topics in cybersecurity like software security, hardware security, and cryptography.
 
-#### Miscellaneous
+### Miscellaneous
 
 - [List of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings) - A list of strings that can cause various issues - unicode decode errors, spam/profanity filter triggers, XSS, memory exhaustion, etc.
 
