@@ -78,17 +78,17 @@ The top 10 issues for 2013 are:
 
 ## Video Presentations
 
-#### DEFCON
+### DEFCON
 - [DEFCON 24 Presentations](https://www.youtube.com/playlist?list=PL9fPq3eQfaaAvXV3hJc4yHuNxoviVckoE) (2016)
 - [DEFCON 23 Presentations](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBuHqVvDzPoWxznYYmyx5UX) (2015)
 - [DEFCON 22 Presentations](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBCdjbKFYjosh1s1EkaYdsQ) (2014)
 
-#### Black Hat
+### Black Hat
 - [Black Hat USA 2016 Videos](https://www.youtube.com/playlist?list=PLH15HpR5qRsXm0-rMacuWBxWcB2fmsmEw)
 - [Black Hat USA 2015 Videos](https://www.youtube.com/playlist?list=PLH15HpR5qRsXF78lrpWP2JKpPJs_AFnD7)
 - [Black Hat USA 2014 Videos](https://www.youtube.com/playlist?list=PLH15HpR5qRsUBgeytB_T4xnKzr4Iv3upj)
 
-#### AppSec USA
+### AppSec USA
 - [2016 Presentations](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N)
 - [2015 Presentations](https://www.youtube.com/playlist?list=PLpr-xdpM8wG93dG_L9QKs0W1cD-esQEzU)
 - [2014 Presentations](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8jz9QpzQeLeB0914Ysq-Cl)
@@ -116,24 +116,24 @@ The top 10 issues for 2013 are:
 
 ## Stay up-to-date
 
-#### News Sites & Blogs
+### News Sites & Blogs
 - [/r/netsec](https://www.reddit.com/r/netsec/) - Subreddit with news relevant to network security, application security, etc.
 - [Hacker News](https://news.ycombinator.com/) - News relevant to startups, technology, programming, and sometimes security
 - [Sustainable Application Security](https://blog.secodis.com/) - Blog covering the intersection of security and ops/devops.
 
-#### Mailing Lists
+### Mailing Lists
 - [OSS-Sec](http://seclists.org/oss-sec/) - Open-source Software Security list with vulnerability announcements, CVE requests, and new research (more popular than FD these days)
 - [Full Disclosure](http://seclists.org/fulldisclosure/) - Vulnerability announcements, CVE requests, new research
 - [Websec Weekly](https://websecweekly.org/) - Roundup of interesting vulnerability reports from HackerOne and popular discussions on /r/netsec
 
 ## Useful References
 
-#### Lists-of-lists
+### Lists-of-lists
 
 - [Troy Hunt's ultimate list of security links](https://www.troyhunt.com/troys-ultimate-list-of-security-links/?m=1) - List of relevant security links from a well-known security researcher at Microsoft.
 - [j.haddix's Pentesting bookmarks](https://github.com/jhaddix/pentest-bookmarks/blob/master/wiki/BookmarksList.wiki) - Lengthy list of bookmarks in various application security categories. No descriptions on the individual links :persevere:
 
-#### Further Training Resources
+### Further Training Resources
 
 **Free**
 - [Cyber Security Base](https://cybersecuritybase.github.io/) - A course created by F-Security and the University of Helsinki to teach security skills.
