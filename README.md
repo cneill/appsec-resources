@@ -89,9 +89,9 @@ The top 10 issues for 2013 are:
 - [Black Hat USA 2014 Videos](https://www.youtube.com/playlist?list=PLH15HpR5qRsUBgeytB_T4xnKzr4Iv3upj)
 
 ### AppSec USA
-- [2016 Presentations](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N)
-- [2015 Presentations](https://www.youtube.com/playlist?list=PLpr-xdpM8wG93dG_L9QKs0W1cD-esQEzU)
-- [2014 Presentations](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8jz9QpzQeLeB0914Ysq-Cl)
+- [AppSec USA 2016 Presentations](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N)
+- [AppSec USA 2015 Presentations](https://www.youtube.com/playlist?list=PLpr-xdpM8wG93dG_L9QKs0W1cD-esQEzU)
+- [AppSec USA 2014 Presentations](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8jz9QpzQeLeB0914Ysq-Cl)
 
 ## Interesting Case Studies
 
@@ -125,6 +125,7 @@ The top 10 issues for 2013 are:
 - [OSS-Sec](http://seclists.org/oss-sec/) - Open-source Software Security list with vulnerability announcements, CVE requests, and new research (more popular than FD these days)
 - [Full Disclosure](http://seclists.org/fulldisclosure/) - Vulnerability announcements, CVE requests, new research
 - [Websec Weekly](https://websecweekly.org/) - Roundup of interesting vulnerability reports from HackerOne and popular discussions on /r/netsec
+- [Apple Product Security](https://lists.apple.com/mailman/listinfo/security-announce/) - Apple's list for announcing security vulnerabilities/updates
 
 ## Useful References
 
@@ -141,6 +142,7 @@ The top 10 issues for 2013 are:
 
 **Paid**
 - [Coursera Cybersecurity Course](https://www.coursera.org/specialization/cybersecurity/7?utm_medium=courseDescripTop) - If you find that cybersecurity is interesting to you, Coursera offers a certificate program that covers several broad topics in cybersecurity like software security, hardware security, and cryptography.
+- [CodeBashing](https://www.codebashing.com/) - Application security training for teams / businesses
 
 ### Miscellaneous
 
