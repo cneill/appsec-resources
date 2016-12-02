@@ -76,19 +76,19 @@ The top 10 issues for 2013 are:
 
 - [**(ADVANCED)** Giant bags of mostly water](http://slides.com/mricon/giant-bags-of-mostly-water) - This presentation hits on a lot of high-level changes that security organizations need to invest in to make user-error less likely in their organizations. More of a philosophical presentation than a technical one.
 
-## Video Presentations
+### Video Presentations
 
-### DEFCON
+#### DEFCON
 - [DEFCON 24 Presentations](https://www.youtube.com/playlist?list=PL9fPq3eQfaaAvXV3hJc4yHuNxoviVckoE) (2016)
 - [DEFCON 23 Presentations](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBuHqVvDzPoWxznYYmyx5UX) (2015)
 - [DEFCON 22 Presentations](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBCdjbKFYjosh1s1EkaYdsQ) (2014)
 
-### Black Hat
+#### Black Hat
 - [Black Hat USA 2016 Videos](https://www.youtube.com/playlist?list=PLH15HpR5qRsXm0-rMacuWBxWcB2fmsmEw)
 - [Black Hat USA 2015 Videos](https://www.youtube.com/playlist?list=PLH15HpR5qRsXF78lrpWP2JKpPJs_AFnD7)
 - [Black Hat USA 2014 Videos](https://www.youtube.com/playlist?list=PLH15HpR5qRsUBgeytB_T4xnKzr4Iv3upj)
 
-### AppSec USA
+#### AppSec USA
 - [AppSec USA 2016 Presentations](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N)
 - [AppSec USA 2015 Presentations](https://www.youtube.com/playlist?list=PLpr-xdpM8wG93dG_L9QKs0W1cD-esQEzU)
 - [AppSec USA 2014 Presentations](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8jz9QpzQeLeB0914Ysq-Cl)
