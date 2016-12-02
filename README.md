@@ -15,7 +15,7 @@ new products/product features.
 0. [Security guides and overviews](#security-guides-and-overviews)
 0. [AppSec topics](#appsec-topics)
 0. [AppSec presentations](#appsec-presentations)
-0. [Interesting case studies](#interesting-use-cases)
+0. [Interesting case studies](#interesting-case-studies)
 0. [Test your skills](#test-your-skills)
 0. [Stay up to date](#stay-up-to-date)
 0. [Useful references](#useful-references)
