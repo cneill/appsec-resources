@@ -154,6 +154,11 @@ The top 10 issues for 2013 are:
 - [Coursera Cybersecurity Course](https://www.coursera.org/specialization/cybersecurity/7?utm_medium=courseDescripTop) - If you find that cybersecurity is interesting to you, Coursera offers a certificate program that covers several broad topics in cybersecurity like software security, hardware security, and cryptography.
 - [CodeBashing](https://www.codebashing.com/) - Application security training for teams / businesses
 
+### Books
+
+- [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470) by Dafydd Stuttard and Marcus Pinto
+- [The Tangled Web](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886) by Michal Zalewski
+
 ### Miscellaneous
 
 - [List of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings) - A list of strings that can cause various issues - unicode decode errors, spam/profanity filter triggers, XSS, memory exhaustion, etc.
