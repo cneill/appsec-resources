@@ -9,6 +9,16 @@ vulnerabilities in your own code. The resources below should help you learn more
 about common security issues, and how to prevent these issues from surfacing in
 new products/product features.
 
+## Table of Contents
+
+0. [OWASP Top 10](#owasp-top-10)
+0. [Security guides and overviews](#security-guides-and-overviews)
+0. [AppSec topics](#appsec-topics)
+0. [AppSec presentations](#appsec-presentations)
+0. [Interesting case studies](#interesting-use-cases)
+0. [Test your skills](#test-your-skills)
+0. [Stay up to date](#stay-up-to-date)
+0. [Useful references](#useful-references)
 
 ## OWASP Top 10
 
@@ -42,7 +52,7 @@ The top 10 issues for 2013 are:
 - [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet) - Security considerations for REST APIs
 - [Google Application Security - Cross-Site Scripting](https://www.google.com/about/appsecurity/learning/xss/) - Guide explaining how to test for and prevent XSS, from Google
 
-## Security Guides / Overviews
+## Security Guides and Overviews
 
 - [The Basics of Web Application Security](http://martinfowler.com/articles/web-security-basics.html) - Blog post describing some of the more common issues in web application security (e.g. XSS, SQL injection...)
 - [2016 Guide to User Data Security](https://www.inversoft.com/guides/2016-guide-to-user-data-security) - This is an in-depth guide to setting up cloud-based apps in a secure way. It covers how to securely configure cloud services/users/etc., set up infrastructure, and avoid introducing vulnerabilities through programming errors, at a high level.
