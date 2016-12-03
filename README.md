@@ -9,9 +9,12 @@ vulnerabilities in your own code. The resources below should help you learn more
 about common security issues, and how to prevent these issues from surfacing in
 new products/product features.
 
+Some links and sections have :star:s next to them to denote what I consider to
+be *essential* knowledge for understanding application security.
+
 ## Table of Contents
 
-0. [OWASP Top 10](#owasp-top-10)
+0. [OWASP Top 10](#-owasp-top-10)
 0. [Security guides and overviews](#security-guides-and-overviews)
 0. [AppSec topics](#appsec-topics)
 0. [AppSec presentations](#appsec-presentations)
@@ -20,7 +23,7 @@ new products/product features.
 0. [Stay up to date](#stay-up-to-date)
 0. [Useful references](#useful-references)
 
-## OWASP Top 10
+## :star: OWASP Top 10
 
 The [OWASP Top 10](https://www.owasp.org/index.php/Top_10_2013-Top_10) is a list
 of common vulnerabilities, as assessed by [OWASP, the Open Web Application Security Project.](https://www.owasp.org/index.php/Main_Page)
@@ -63,7 +66,7 @@ The top 10 issues for 2013 are:
 
 ### The Basics
 
-- [Ten Immutable Laws of Security](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/) - High-level security principles to keep in mind.
+- :star: [Ten Immutable Laws of Security](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/) - High-level security principles to keep in mind.
 
 ### Handling User Passwords
 
@@ -75,10 +78,13 @@ The top 10 issues for 2013 are:
 - [Choosing Secure Passwords](https://www.schneier.com/blog/archives/2014/03/choosing_secure_1.html) - Guide on how to think about choosing secure passwords from Bruce Schneier.
 - [HowTo: Privacy & Security Conscious Browsing](https://gist.github.com/atcuno/3425484ac5cce5298932) - Tips for how to safely configure your browser to avoid unnecessary exposure to security issues.
 - [A Week with a Rails Security Strategy](http://bauland42.com/articles/a-week-with-a-rails-security-strategy/) - A short guide to creating a daily practice of maintaining your application security posture.
+- [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html) - A guide to tightening security in OpenSSH
 
 ### Cryptography
 
+- :star: [The Cryptographic Doom Principle](https://moxie.org/blog/the-cryptographic-doom-principle/) - A short must-read for anyone implementing or auditing crypto systems
 - [crypto101.io](https://www.crypto101.io/) - Overview of the building blocks of cryptography - cryptographic hash/MAC algorithms, popular ciphers, SSL/TLS, and much more.
+- [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html) - In-depth details about how TLS works as a protocol
 
 ## AppSec Presentations
 
@@ -162,4 +168,3 @@ The top 10 issues for 2013 are:
 ### Miscellaneous
 
 - [List of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings) - A list of strings that can cause various issues - unicode decode errors, spam/profanity filter triggers, XSS, memory exhaustion, etc.
-
