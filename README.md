@@ -14,7 +14,7 @@ be *essential* knowledge for understanding application security.
 
 ## Table of Contents
 
-0. [OWASP Top 10](#-owasp-top-10)
+0. [OWASP Top 10](#star-owasp-top-10)
 0. [Security guides and overviews](#security-guides-and-overviews)
 0. [AppSec topics](#appsec-topics)
 0. [AppSec presentations](#appsec-presentations)
