@@ -65,7 +65,7 @@ them against unauthorized systems could result in criminal penalties.
 - [**sqlmap**](https://github.com/sqlmapproject/sqlmap) - Try to find SQL injection bugs
 - [**NoSQLMap**](https://github.com/tcstool/NoSQLMap) - Automated Mongo/NoSQL exploitation tool
 - [**CSRFT**](https://github.com/PaulSec/CSRFT) - CSRF toolkit
-- **syntribos** - A framework for fuzz-testing REST APIs for security defects
+- [**syntribos**](https://github.com/openstack/syntribos) - A framework for fuzz-testing REST APIs for security defects
 
 #### Brute Force
 - [**nmap scripting engine**](http://nmap.org/book/nse.html) - Scripts for nmap to add bruteforce functionality
