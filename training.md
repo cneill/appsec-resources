@@ -68,11 +68,15 @@ The top 10 issues for 2013 are:
 
 - :star: [Ten Immutable Laws of Security](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/) - High-level security principles to keep in mind.
 
+### Web servers / Browsers
+
+- [Exotic HTTP Headers](https://peteris.rocks/blog/exotic-http-headers/) - This lists most of the common HTTP headers that are used by web applications to ensure security from the browser perspective.
+
+
 ### Handling User Passwords
 
 - [Password Hashing: Why and How](http://ithare.com/password-hashing-why-and-how/) - This is a high-level overview of how and why to use well-tested approaches to password storage. More of a philosophical than technical talk. Read this one, then the one below.
 - [How to Safely Store Your Users' Passwords in 2016](https://paragonie.com/blog/2016/02/how-safely-store-password-in-2016) - Solid implementation of current best-practice password hashing in several languages. Very specific (i.e. mostly "how", not much "why")
-
 
 ### Operations
 
