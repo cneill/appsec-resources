@@ -125,7 +125,7 @@ The top 10 issues for 2013 are:
 
 - [**(XSS)** Google XSS Game](https://xss-game.appspot.com/) - An introduction to finding XSS vulnerabilities
 - [**(XSS)** Escape](http://escape.alf.nu/) - Much more in-depth examples than above, organized like a game where the objective is finding the shortest "exploit" that pops up an alert box
-- **(ALL)** [Google Gruyere](https://google-gruyere.appspot.com/) - A "lab" to test your skills finding a number of different vulnerabilities. Get started [here](https://google-gruyere.appspot.com/part1).
+- [**(ALL)** Google Gruyere](https://google-gruyere.appspot.com/) - A "lab" to test your skills finding a number of different vulnerabilities. Get started [here](https://google-gruyere.appspot.com/part1).
 - [**(ALL)** Hack This Site](https://www.hackthissite.org/) - Site with all kinds of "wargames" for testing your hacking skills, and tutorials about security concepts
 - [**(ALL)** Over The Wire Wargames](http://overthewire.org/wargames/) - Very in-depth "wargames" for learning different aspects of security and testing your skills
 - [**(ALL)** OWASP WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project) - This is a Java/.NET web app that has been deliberately implemented with multiple security vulnerabilities. Can you find/patch them all?

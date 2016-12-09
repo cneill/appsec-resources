@@ -56,7 +56,7 @@ them against unauthorized systems could result in criminal penalties.
 ### System Configuration
 
 - [**cve-check-tool**](https://github.com/ikeydoherty/cve-check-tool) - Look for CVEs affecting your package list
-- **clair** - Vulnerability static analysis for containers
+- [**clair**](https://github.com/coreos/clair) - Vulnerability static analysis for containers
 
 ## Blackbox Application Testing
 
