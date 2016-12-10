@@ -68,7 +68,7 @@ The top 10 issues for 2013 are:
 
 - :star: [Ten Immutable Laws of Security](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/) - High-level security principles to keep in mind.
 
-### Web servers / Browsers
+### HTTP Headers
 
 - [Exotic HTTP Headers](https://peteris.rocks/blog/exotic-http-headers/) - This lists most of the common HTTP headers that are used by web applications to ensure security from the browser perspective.
 
@@ -98,6 +98,8 @@ The top 10 issues for 2013 are:
 - [**(ADVANCED)** Giant bags of mostly water](http://slides.com/mricon/giant-bags-of-mostly-water) - This presentation hits on a lot of high-level changes that security organizations need to invest in to make user-error less likely in their organizations. More of a philosophical presentation than a technical one.
 
 ### Video Presentations
+
+- [PaulSec & TunnelsUp "awesome-sec-talks" list](https://github.com/PaulSec/awesome-sec-talks) - This is a mega-list of security talks from many conferences, dating back to 2013. Great if you're trying to find a talk from a conference you attended or heard about; probably too many to casually browse through.
 
 #### DEFCON
 - [DEFCON 24 Presentations](https://www.youtube.com/playlist?list=PL9fPq3eQfaaAvXV3hJc4yHuNxoviVckoE) (2016)
@@ -155,6 +157,9 @@ The top 10 issues for 2013 are:
 
 - [Troy Hunt's ultimate list of security links](https://www.troyhunt.com/troys-ultimate-list-of-security-links/?m=1) - List of relevant security links from a well-known security researcher at Microsoft.
 - [j.haddix's Pentesting bookmarks](https://github.com/jhaddix/pentest-bookmarks/blob/master/wiki/BookmarksList.wiki) - Lengthy list of bookmarks in various application security categories. No descriptions on the individual links :persevere:
+- [paragonie's "awesome appsec" list](https://github.com/paragonie/awesome-appsec) - This list includes a breakdown by programming language, with a heavy emphasis on books. Created almost 2 years ago, so some resources may be a bit dated.
+- [infoslack's "awesome-web-hacking" list](https://github.com/infoslack/awesome-web-hacking) - Contains some good resources (books, useful Docker repos), but not much detail in the link descriptions.
+- [dloss's "Python tools for penetration testers" list](https://github.com/dloss/python-pentest-tools) - Huge list of Python tools and frameworks that are handy for security testing and building your own security tools.
 
 ### Further Training Resources
 

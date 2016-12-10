@@ -14,8 +14,11 @@ them against unauthorized systems could result in criminal penalties.
 
 - [**testssl.sh**](https://testssl.sh/) - SSL configuration testing (bash)
 - [**sslyze**](https://github.com/nabla-c0d3/sslyze) - SSL configuration testing (python)
-- [**cipherscan**](https://github.com/jvehent/cipherscan) - get ciphers/etc used by an SSL/TLS endpoint
-- [**TLSlayer**](https://github.com/thanasisk/TLSlayer) - get ciphers/etc used by an SSL/TLS endpoint
+- [**TLSlayer**](https://github.com/thanasisk/TLSlayer) - Get ciphers/etc used by an SSL/TLS endpoint (golang)
+
+### SSH
+
+- [**ssh-audit**](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 
 ### General
 
@@ -53,10 +56,16 @@ them against unauthorized systems could result in criminal penalties.
 
 - [**Victims**](https://securityblog.redhat.com/tag/victims/) - Find vulnerable Java dependencies
 
+### Bash
+
+- [**ShellCheck**](https://github.com/koalaman/shellcheck) - Gives warnings and suggestions for bash/sh shell scripts; more of a general-purpose linter, but will find things like unquoted variables that may have security consequences
+
+
 ### System Configuration
 
 - [**cve-check-tool**](https://github.com/ikeydoherty/cve-check-tool) - Look for CVEs affecting your package list
 - [**clair**](https://github.com/coreos/clair) - Vulnerability static analysis for containers
+- [**docker-bench-security**](https://github.com/docker/docker-bench-security) - Script that checks for dozens of common best-practices around deploying Docker containers in production
 
 ## Blackbox Application Testing
 
@@ -66,6 +75,7 @@ them against unauthorized systems could result in criminal penalties.
 - [**NoSQLMap**](https://github.com/tcstool/NoSQLMap) - Automated Mongo/NoSQL exploitation tool
 - [**CSRFT**](https://github.com/PaulSec/CSRFT) - CSRF toolkit
 - [**syntribos**](https://github.com/openstack/syntribos) - A framework for fuzz-testing REST APIs for security defects
+- [**arachni**](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
 
 #### Brute Force
 - [**nmap scripting engine**](http://nmap.org/book/nse.html) - Scripts for nmap to add bruteforce functionality
