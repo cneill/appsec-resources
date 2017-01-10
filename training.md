@@ -14,7 +14,7 @@ be *essential* knowledge for understanding application security.
 
 ## Table of Contents
 
-0. [The Basics](#the-basics)
+0. [The Basics](#star-the-basics)
 0. [OWASP Top 10](#star-owasp-top-10)
 0. [Security guides and overviews](#security-guides-and-overviews)
 0. [Defending Applications **(defense)**](#defending-applications)
@@ -76,6 +76,7 @@ The top 10 issues for 2013 are:
 - [2016 Guide to User Data Security](https://www.inversoft.com/guides/2016-guide-to-user-data-security) - This is an in-depth guide to setting up cloud-based apps in a secure way. It covers how to securely configure cloud services/users/etc., set up infrastructure, and avoid introducing vulnerabilities through programming errors, at a high level.
 - [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers) - A work-in-progress project to document security best practices for a developer audience. Includes a very handy [security checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md) for secure applications.
 - [Introduction to Microsoft Secure Development Lifecycle](http://download.microsoft.com/download/9/3/5/935520EC-D9E2-413E-BEA7-0B865A79B18C/Introduction%20to%20the%20Microsoft%20Security%20Development%20Lifecycle%20%28SDL%29.ppsx) - A great introductory slideshow describing Microsoft's method of doing secure software development. We borrow heavily from this model on the Rackspace Security Engineering team, conducting threat modeling sessions with all new products to understand the system-level interactions and the "trust boundaries" that exist between systems, for example.
+- [Security Guide: How to Protect Your Infrastructure Against the Basic Attacker](http://blog.mailgun.com/security-guide-basic-infrastructure-security/) - Guide outlining how to set up basic infrastructure security for your systems
 
 ## Defending Applications
 
@@ -198,3 +199,4 @@ The top 10 issues for 2013 are:
 ### Miscellaneous
 
 - [List of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings) - A list of strings that can cause various issues - unicode decode errors, spam/profanity filter triggers, XSS, memory exhaustion, etc.
+- [Exploitable PHP functions](https://stackoverflow.com/questions/3115559/exploitable-php-functions) - A list of PHP functions that can be used for malicious purposes
