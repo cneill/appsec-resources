@@ -14,14 +14,26 @@ be *essential* knowledge for understanding application security.
 
 ## Table of Contents
 
+0. [The Basics](#the-basics)
 0. [OWASP Top 10](#star-owasp-top-10)
 0. [Security guides and overviews](#security-guides-and-overviews)
-0. [AppSec topics](#appsec-topics)
+0. [Defending Applications **(defense)**](#defending-applications)
+0. [Application Testing **(offense)**](#attacking-applications)
 0. [AppSec presentations](#appsec-presentations)
 0. [Interesting case studies](#interesting-case-studies)
 0. [Test your skills](#test-your-skills)
 0. [Stay up to date](#stay-up-to-date)
 0. [Useful references](#useful-references)
+
+
+## :star: The Basics
+
+These short lists provide a background in security knowledge essential to understanding the broader goals of security (strategic, not tactical).
+
+- [Thirteen principles to ensure enterprise system security](http://searchsecurity.techtarget.com/opinion/Thirteen-principles-to-ensure-enterprise-system-security) - Good high-level overview of security concepts, explained with simple examples
+- [Ten Immutable Laws of Security](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/) - High-level security principles to keep in mind when designing systems or defending them
+- [The principles of data security design](https://cryptome.org/2015/03/principles-data-security.htm) - High-level principles related data security
+- [4 Tips for a Strong Executive Summary of a Security Assessment Report](https://zeltser.com/executive-summary-for-security-assessment-report-tips/) - Tips for writing security report summaries for non-developers/security people
 
 ## :star: OWASP Top 10
 
@@ -53,7 +65,10 @@ The top 10 issues for 2013 are:
 - [SQL Injection Prevention Cheat Sheet](https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet) - Describes methods for detecting and preventing [SQL injection](http://en.wikipedia.org/wiki/SQL_injection) in webapps.
 - [HTML5 Security Cheat Sheet](https://www.owasp.org/index.php/HTML5_Security_Cheat_Sheet) - Security considerations for HTML5 apps
 - [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet) - Security considerations for REST APIs
+- [Authentication Cheat Sheet](https://www.owasp.org/index.php/Authentication_Cheat_Sheet) - Tips on handling authentication in web applications
 - [Google Application Security - Cross-Site Scripting](https://www.google.com/about/appsecurity/learning/xss/) - Guide explaining how to test for and prevent XSS, from Google
+- :star: [LtR 101: WebApp Testing - Method to the Madness](http://blog.zsec.uk/ltr101-method-to-madness/) - This checklist has helpful questions to ask yourself as you're auditing a web application for security issues.
+ 
 
 ## Security Guides and Overviews
 
@@ -62,11 +77,7 @@ The top 10 issues for 2013 are:
 - [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers) - A work-in-progress project to document security best practices for a developer audience. Includes a very handy [security checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md) for secure applications.
 - [Introduction to Microsoft Secure Development Lifecycle](http://download.microsoft.com/download/9/3/5/935520EC-D9E2-413E-BEA7-0B865A79B18C/Introduction%20to%20the%20Microsoft%20Security%20Development%20Lifecycle%20%28SDL%29.ppsx) - A great introductory slideshow describing Microsoft's method of doing secure software development. We borrow heavily from this model on the Rackspace Security Engineering team, conducting threat modeling sessions with all new products to understand the system-level interactions and the "trust boundaries" that exist between systems, for example.
 
-## AppSec Topics
-
-### The Basics
-
-- :star: [Ten Immutable Laws of Security](https://blogs.technet.microsoft.com/rhalbheer/2011/06/16/ten-immutable-laws-of-security-version-2-0/) - High-level security principles to keep in mind.
+## Defending Applications
 
 ### HTTP Headers
 
@@ -90,6 +101,14 @@ The top 10 issues for 2013 are:
 - :star: [The Cryptographic Doom Principle](https://moxie.org/blog/the-cryptographic-doom-principle/) - A short must-read for anyone implementing or auditing crypto systems
 - [crypto101.io](https://www.crypto101.io/) - Overview of the building blocks of cryptography - cryptographic hash/MAC algorithms, popular ciphers, SSL/TLS, and much more.
 - [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html) - In-depth details about how TLS works as a protocol
+
+## Attacking Applications
+
+### Cheatsheets
+- [OWASP Testing Guide v4](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents) - This guide to web application security testing from OWASP contains explanations of many granular testing concepts (e.g. ["Testing for Weak lock out mechanism"](https://www.owasp.org/index.php/Testing_for_Weak_lock_out_mechanism_(OTG-AUTHN-003)), broken down by general topics (e.g. [Authentication Testing](https://www.owasp.org/index.php/Testing_for_authentication), [Business Logic Testing](https://www.owasp.org/index.php/Testing_for_business_logic))
+- [MySQL SQL Injection Cheat Sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet) - Cheat sheet for SQL injection specific to MySQL
+- [SQL injection cheatsheet (ha.ckers.org)](https://web.archive.org/web/20150420183409/http://ha.ckers.org/sqlinjection/) - Cheat sheet for evading filters with SQL injection
+- [XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) - Cheat sheet for constructing interesting XSS vectors to evade filters
 
 ## AppSec Presentations
 
