@@ -80,6 +80,8 @@ The top 10 issues for 2013 are:
 
 ## Defending Applications
 
+This section is dedicated to building secure applications
+
 ### HTTP Headers
 
 - [Exotic HTTP Headers](https://peteris.rocks/blog/exotic-http-headers/) - This lists most of the common HTTP headers that are used by web applications to ensure security from the browser perspective.
@@ -104,6 +106,8 @@ The top 10 issues for 2013 are:
 - [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html) - In-depth details about how TLS works as a protocol
 
 ## Attacking Applications
+
+This section lists resources for testing the security of applications. The [list of tools](./tools.md) in this guide may be useful here.
 
 ### Cheatsheets
 - [OWASP Testing Guide v4](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents) - This guide to web application security testing from OWASP contains explanations of many granular testing concepts (e.g. ["Testing for Weak lock out mechanism"](https://www.owasp.org/index.php/Testing_for_Weak_lock_out_mechanism_(OTG-AUTHN-003)), broken down by general topics (e.g. [Authentication Testing](https://www.owasp.org/index.php/Testing_for_authentication), [Business Logic Testing](https://www.owasp.org/index.php/Testing_for_business_logic))
