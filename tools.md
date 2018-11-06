@@ -31,13 +31,31 @@ them against unauthorized systems could result in criminal penalties.
 - [**Docker-Bench**](https://github.com/docker/docker-bench-security) - Test for Docker containers for CIS best practices
 - [**gitrob**](https://github.com/michenriksen/gitrob) - Search git repositories for juicy info
 - [**nsec3map**](https://github.com/anonion0/nsec3map) - Tool to enumerate resource records of a DNS zone using DNSSEC NSEC/NSEC3 chain
+- [**trufflehog**](https://github.com/dxa4481/truffleHog) - Searches through git repositories for secrets, digging deep into commit history and branches
 
 ## Static Analysis
 
-### JavaScript
+### Dependencies
 
+- [**DependencyCheck**](https://github.com/jeremylong/DependencyCheck)
 - [**Retire.js**](http://bekk.github.io/retire.js/) - Look for out-of-date JS/Node.JS components
 - [**Node Security Project**](https://nodesecurity.io/tools) - Look for out-of-date Node.JS dependencies
+
+### Bash
+
+- [**ShellCheck**](https://github.com/koalaman/shellcheck) - Gives warnings and suggestions for bash/sh shell scripts; more of a general-purpose linter, but will find things like unquoted variables that may have security consequences
+
+### Go
+
+- [**gosec**](https://github.com/securego/gosec)
+
+### Java
+
+- [**Victims**](https://securityblog.redhat.com/tag/victims/) - Find vulnerable Java dependencies
+
+### PHP
+
+- [**RIPS**](http://rips-scanner.sourceforge.net/) - PHP security static analyzer
 
 ### Python
 
@@ -48,19 +66,6 @@ them against unauthorized systems could result in criminal penalties.
 - [**Brakeman**](http://brakemanscanner.org/) - Rails security static analyzer
 - [**Bundler Audit**](https://github.com/rubysec/bundler-audit) - Find vulnerable Bundler dependencies
 
-### PHP
-
-- [**RIPS**](http://rips-scanner.sourceforge.net/) - PHP security static analyzer
-
-### Java
-
-- [**Victims**](https://securityblog.redhat.com/tag/victims/) - Find vulnerable Java dependencies
-
-### Bash
-
-- [**ShellCheck**](https://github.com/koalaman/shellcheck) - Gives warnings and suggestions for bash/sh shell scripts; more of a general-purpose linter, but will find things like unquoted variables that may have security consequences
-
-
 ### System Configuration
 
 - [**cve-check-tool**](https://github.com/ikeydoherty/cve-check-tool) - Look for CVEs affecting your package list
@@ -70,6 +75,7 @@ them against unauthorized systems could result in criminal penalties.
 ## Blackbox Application Testing
 
 #### Fuzzers
+
 - [**commix**](https://github.com/stasinopoulos/commix/) - Try to find command injection bugs
 - [**sqlmap**](https://github.com/sqlmapproject/sqlmap) - Try to find SQL injection bugs
 - [**NoSQLMap**](https://github.com/tcstool/NoSQLMap) - Automated Mongo/NoSQL exploitation tool
@@ -78,6 +84,7 @@ them against unauthorized systems could result in criminal penalties.
 - [**arachni**](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
 
 #### Brute Force
+
 - [**nmap scripting engine**](http://nmap.org/book/nse.html) - Scripts for nmap to add bruteforce functionality
 
 ## Specific Platforms / Vulnerabilities

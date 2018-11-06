@@ -126,16 +126,22 @@ This section lists resources for testing the security of applications. The [list
 - [PaulSec & TunnelsUp "awesome-sec-talks" list](https://github.com/PaulSec/awesome-sec-talks) - This is a mega-list of security talks from many conferences, dating back to 2013. Great if you're trying to find a talk from a conference you attended or heard about; probably too many to casually browse through.
 
 #### DEFCON
+- [DEFCON 26 Presentations](https://www.youtube.com/playlist?list=PL9fPq3eQfaaD0cf5c7wkzMoj2kifzGO4U) (2018)
+- [DEFCON 25 Presentations](https://www.youtube.com/playlist?list=PL9fPq3eQfaaDOo8mTBHhEHMfuG2LNUSTC) (2017)
 - [DEFCON 24 Presentations](https://www.youtube.com/playlist?list=PL9fPq3eQfaaAvXV3hJc4yHuNxoviVckoE) (2016)
 - [DEFCON 23 Presentations](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBuHqVvDzPoWxznYYmyx5UX) (2015)
 - [DEFCON 22 Presentations](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBCdjbKFYjosh1s1EkaYdsQ) (2014)
 
 #### Black Hat
+- [Black Hat USA 2018 Videos](https://www.youtube.com/playlist?list=PLH15HpR5qRsVAXGmSVfjWrGtGLJjIJuGe)
+- [Black Hat USA 2017 Videos](https://www.youtube.com/playlist?list=PLH15HpR5qRsUyGhBVRDKGrHyQC5G4jQyd)
 - [Black Hat USA 2016 Videos](https://www.youtube.com/playlist?list=PLH15HpR5qRsXm0-rMacuWBxWcB2fmsmEw)
 - [Black Hat USA 2015 Videos](https://www.youtube.com/playlist?list=PLH15HpR5qRsXF78lrpWP2JKpPJs_AFnD7)
 - [Black Hat USA 2014 Videos](https://www.youtube.com/playlist?list=PLH15HpR5qRsUBgeytB_T4xnKzr4Iv3upj)
 
 #### AppSec USA
+- [AppSec USA 2018 Presentations](https://www.youtube.com/playlist?list=PLpr-xdpM8wG-ma2GOBmdpGGfnVPVwFFQd)
+- [AppSec USA 2017 Presentations](https://www.youtube.com/playlist?list=PLpr-xdpM8wG9emx73fEjX0Cn6VHruJ4-l)
 - [AppSec USA 2016 Presentations](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N)
 - [AppSec USA 2015 Presentations](https://www.youtube.com/playlist?list=PLpr-xdpM8wG93dG_L9QKs0W1cD-esQEzU)
 - [AppSec USA 2014 Presentations](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8jz9QpzQeLeB0914Ysq-Cl)
