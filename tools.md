@@ -37,9 +37,9 @@ them against unauthorized systems could result in criminal penalties.
 
 ### Dependencies
 
-- [**DependencyCheck**](https://github.com/jeremylong/DependencyCheck)
-- [**Retire.js**](http://bekk.github.io/retire.js/) - Look for out-of-date JS/Node.JS components
-- [**Node Security Project**](https://nodesecurity.io/tools) - Look for out-of-date Node.JS dependencies
+- [**DependencyCheck**](https://github.com/jeremylong/DependencyCheck) - Look for out-of-date dependencies
+- [**retire.js**](https://github.com/RetireJS/retire.js) - Look for out-of-date JavaScript dependencies
+- [**npm audit**](https://docs.npmjs.com/getting-started/running-a-security-audit) - Look for out-of-date Node.JS modules
 
 ### Bash
 
@@ -47,19 +47,15 @@ them against unauthorized systems could result in criminal penalties.
 
 ### Go
 
-- [**gosec**](https://github.com/securego/gosec)
-
-### Java
-
-- [**Victims**](https://securityblog.redhat.com/tag/victims/) - Find vulnerable Java dependencies
+- [**gosec**](https://github.com/securego/gosec) - Find various Go security defects
 
 ### PHP
 
-- [**RIPS**](http://rips-scanner.sourceforge.net/) - PHP security static analyzer
+- [**RIPS**](http://rips-scanner.sourceforge.net/) - PHP security static analyzer (paid version offered with community version available but no longer supported)
 
 ### Python
 
-- [**Bandit**](https://wiki.openstack.org/wiki/Security/Projects/Bandit) - Python security static analyzer
+- [**Bandit**](https://github.com/PyCQA/bandit) - Python security static analyzer
 
 ### Ruby / Rails
 
@@ -76,6 +72,7 @@ them against unauthorized systems could result in criminal penalties.
 
 #### Fuzzers
 
+- [**OWASP ZAP**](https://github.com/zaproxy/zaproxy) - All-around fuzzing proxy; comparable to Burp Suite
 - [**commix**](https://github.com/stasinopoulos/commix/) - Try to find command injection bugs
 - [**sqlmap**](https://github.com/sqlmapproject/sqlmap) - Try to find SQL injection bugs
 - [**NoSQLMap**](https://github.com/tcstool/NoSQLMap) - Automated Mongo/NoSQL exploitation tool
